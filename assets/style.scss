@@ -9,12 +9,13 @@
 // Do not change the order of the imports behind this comment.
 
 // GLOBAL VARIABLES
+
 @import "_variables.scss";
 
 // LIQUID CALCULATIONS
-{% for items in site.data.nav %}
-    $s-menuWidth: calc({{ forloop.length }} * (#{$s-menuItemWidth} + #{$s-menuItemPadding} * 2));
-{% endfor %}
+//{% for items in site.data.nav %}
+//    $s-menuWidth: calc({{ forloop.length }} * (#{$s-menuItemWidth} + #{$s-menuItemPadding} * 2));
+//{% endfor %}
 
 // OTHER IMPORTS
 @import "_mixins.scss";
