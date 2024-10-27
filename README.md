@@ -237,4 +237,3 @@ Uses [jQuery](https://github.com/jquery/jquery) JavaScript plugin licensed under
 
 ## ⚖ License
 © Ondrej Golasowski. The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
